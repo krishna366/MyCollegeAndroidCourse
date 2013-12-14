@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<News>
+    <NewsItem>
+        <Title>News Item1</Title>
+        <UserName>Krishna</UserName>
+        <NewsDetails>This is News Item1</NewsDetails>
+        <Time>2013-12-14 11:58</Time>
+    </NewsItem>
+    <NewsItem>
+        <Title>News Item2</Title>
+        <UserName>Krishna</UserName>
+        <NewsDetails>This is News Item2</NewsDetails>
+        <Time>2013-12-14 11:58</Time>
+    </NewsItem>
+    <NewsItem>
+        <Title>News Item3</Title>
+        <UserName>Krishna</UserName>
+        <NewsDetails>This is News Item3</NewsDetails>
+        <Time>2013-12-14 11:58</Time>
+    </NewsItem>
+    <NewsItem>
+        <Title>News Item4</Title>
+        <UserName>Krishna</UserName>
+        <NewsDetails>This is News Item4</NewsDetails>
+        <Time>2013-12-14 11:58</Time>
+    </NewsItem>
+    <NewsItem>
+        <Title>News Item5</Title>
+        <UserName>Krishna</UserName>
+        <NewsDetails>This is News Item5</NewsDetails>
+        <Time>2013-12-14 11:58</Time>
+    </NewsItem>
+    <NewsItem>
+        <Title>News Item6</Title>
+        <UserName>Krishna</UserName>
+        <NewsDetails>This is News Item6</NewsDetails>
+        <Time>2013-12-14 11:58</Time>
+    </NewsItem>
+    <NewsItem>
+        <Title>News Item7</Title>
+        <UserName>Krishna</UserName>
+        <NewsDetails>This is News Item7</NewsDetails>
+        <Time>2013-12-14 11:58</Time>
+    </NewsItem>
+    <NewsItem>
+        <Title>News Item8</Title>
+        <UserName>Krishna</UserName>
+        <NewsDetails>This is News Item8</NewsDetails>
+        <Time>2013-12-14 11:58</Time>
+    </NewsItem>
+    <NewsItem>
+        <Title>News Item9</Title>
+        <UserName>Krishna</UserName>
+        <NewsDetails>This is News Item9</NewsDetails>
+        <Time>2013-12-14 11:58</Time>
+    </NewsItem>
+    <NewsItem>
+        <Title>News Item10</Title>
+        <UserName>Krishna</UserName>
+        <NewsDetails>This is News Item10</NewsDetails>
+        <Time>2013-12-14 11:58</Time>
+    </NewsItem>
+</News>

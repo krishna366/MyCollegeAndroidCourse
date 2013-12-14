@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<CollegeInfo>
+    <SectionGroup name="About">
+        <Section>
+            <title>About Us</title>
+            <detail>This is about us page</detail>
+        </Section>
+        <Section>
+            <title>Location</title>
+            <detail>This is Location page</detail>
+        </Section>
+        <Section>
+            <title>Contact Info</title>
+            <detail>This is contact info</detail>
+        </Section>
+        <Section>
+            <title>Careers</title>
+            <detail>This is careers page</detail>
+        </Section>
+    </SectionGroup>
+    <SectionGroup name="Acadamics">
+        <Section>
+            <title>Students</title>
+            <detail>This is students page</detail>
+        </Section>
+        <Section>
+            <title>Departments</title>
+            <detail>This is students page</detail>
+        </Section>
+        <Section>
+            <title>Faculty</title>
+            <detail>This is students page</detail>
+        </Section>
+        <Section>
+            <title>Projects</title>
+            <detail>This is students page</detail>
+        </Section>
+    </SectionGroup>
+    <SectionGroup name="Campus">
+        <Section>
+            <title>Associations</title>
+            <detail>This is associations page</detail>
+        </Section>
+        <Section>
+            <title>Library and Labs</title>
+            <detail>This is library and labs page</detail>
+        </Section>
+        <Section>
+            <title>Sports</title>
+            <detail>This is sports page</detail>
+        </Section>
+        <Section>
+            <title>Events</title>
+            <detail>This is events page</detail>
+        </Section>
+    </SectionGroup>
+    <SectionGroup name="Alumini">
+        <Section>
+            <title>Report</title>
+            <detail>This is report page</detail>
+        </Section>
+    </SectionGroup>
+    <SectionGroup name="Admissions">
+        <Section>
+            <title>Report</title>
+            <detail>This is report page</detail>
+        </Section>
+    </SectionGroup>
+    <SectionGroup name="Placements">
+        <Section>
+            <title>Report</title>
+            <detail>This is report page</detail>
+        </Section>
+        <Section>
+            <title>Companies</title>
+            <detail>This is companies page</detail>
+        </Section>
+        <Section>
+            <title>Process</title>
+            <detail>This is process page</detail>
+        </Section>
+        <Section>
+            <title>Facilities</title>
+            <detail>This is facilities page</detail>
+        </Section>
+    </SectionGroup>
+</CollegeInfo>

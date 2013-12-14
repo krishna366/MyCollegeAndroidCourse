@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<CoursesInfo>
+        <Department title="C.S.E">
+            <Courses>
+                <Course>
+                    <title>Course1</title>
+                    <detail>This is course1 detail</detail>
+                </Course>
+                <Course>
+                    <title>Course2</title>
+                    <detail>This is course2 detail</detail>
+                </Course>
+                <Course>
+                    <title>Course3</title>
+                    <detail>This is course3 detail</detail>
+                </Course>
+                <Course>
+                    <title>Course4</title>
+                    <detail>This is course4 detail</detail>
+                </Course>
+                <Course>
+                    <title>Course5</title>
+                    <detail>This is course5 detail</detail>
+                </Course>
+            </Courses>
+        </Department>
+    <Department title="E.E.E">
+        <Courses>
+            <Course>
+                <title>Course1</title>
+                <detail>This is course1 detail</detail>
+            </Course>
+            <Course>
+                <title>Course2</title>
+                <detail>This is course2 detail</detail>
+            </Course>
+            <Course>
+                <title>Course3</title>
+                <detail>This is course3 detail</detail>
+            </Course>
+            <Course>
+                <title>Course4</title>
+                <detail>This is course4 detail</detail>
+            </Course>
+            <Course>
+                <title>Course5</title>
+                <detail>This is course5 detail</detail>
+            </Course>
+        </Courses>
+    </Department>
+    <Department title="E.C.E">
+        <Courses>
+            <Course>
+                <title>Course1</title>
+                <detail>This is course1 detail</detail>
+            </Course>
+            <Course>
+                <title>Course2</title>
+                <detail>This is course2 detail</detail>
+            </Course>
+            <Course>
+                <title>Course3</title>
+                <detail>This is course3 detail</detail>
+            </Course>
+            <Course>
+                <title>Course4</title>
+                <detail>This is course4 detail</detail>
+            </Course>
+            <Course>
+                <title>Course5</title>
+                <detail>This is course5 detail</detail>
+            </Course>
+        </Courses>
+    </Department>
+    <Department title="Mechnical Engineering">
+        <Courses>
+            <Course>
+                <title>Course1</title>
+                <detail>This is course1 detail</detail>
+            </Course>
+            <Course>
+                <title>Course2</title>
+                <detail>This is course2 detail</detail>
+            </Course>
+            <Course>
+                <title>Course3</title>
+                <detail>This is course3 detail</detail>
+            </Course>
+            <Course>
+                <title>Course4</title>
+                <detail>This is course4 detail</detail>
+            </Course>
+            <Course>
+                <title>Course5</title>
+                <detail>This is course5 detail</detail>
+            </Course>
+        </Courses>
+    </Department>
+</CoursesInfo>
